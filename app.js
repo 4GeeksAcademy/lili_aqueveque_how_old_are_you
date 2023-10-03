@@ -10,5 +10,5 @@ function calculateAge() {
     }
 
     const ageOutputElement = document.getElementById("ageOutput");
-    ageOutputElement.innerHTML = `You are ${age} years old <br> ...and yet the universe is so vast that our mere existence is just 1 grain of sand in the hour glass of the universe... so make it count :)`;
+    ageOutputElement.innerHTML = `You are ${age} years old <br> ...and yet life is so vast that our mere existence is just 1 grain of sand in the hour glass of the universe... so make it count :)`;
 }
