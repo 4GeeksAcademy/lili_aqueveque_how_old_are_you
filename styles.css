@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://media1.popsugar-assets.com/files/thumbor/NnqxnbWCc1qgBcxG0GDKMnML_Ok=/fit-in/480x270/top/filters:format_auto():upscale()/2015/04/24/742/n/1922398/150fb890_y0VW29.gif'); /* Replace 'background.gif' with the path to your GIF file */
+    background-size: cover; /* This ensures the background image covers the whole viewport */
+    background-repeat: no-repeat; /* Prevents the background image from repeating */
+}
+
+.calculateButton {
+    background-color: blueviolet;
+    padding: 7px;
+    margin-top: 7px;
+}
+
+#ageOutput {
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);;
+}
